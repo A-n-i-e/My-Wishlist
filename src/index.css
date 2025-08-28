@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@import './fonts.css';
+
+
+@theme {
+    --font-lazydog: 'LazyDog', sans-serif;
+
+    --color-sky-blue: #91b8d7;
+    
+}
