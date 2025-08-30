@@ -5,12 +5,12 @@ export default function Wish() {
     const [selectedItem, setSelectedItem] = useState(null);
     return (
         <section className="font-lazydog w-full flex flex-col items-center text-sky-blue pt-6 bg-cover bg-center h-full"
-        style={{ backgroundImage: `url(${"public/images/background.png"})` }}>
+        style={{ backgroundImage: `url(${"/images/background.png"})` }}>
             <h2 className="text-2xl">Welcome!</h2>
             <p>Please bless a young soul out here</p>
 
 
-            <div className="grid grid-cols-2 md:grid-cols-3  lg:grid-cols-4 gap-6 p-4 ">
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3  lg:grid-cols-4 gap-6 p-4 ">
                 {wishlist.map(item => (
                     <div key={item.id} className="border-2 border-sky-blue rounded-lg flex flex-col items-center p-4 text-center">
                         <h2>{item.name}</h2>
