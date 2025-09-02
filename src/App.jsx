@@ -1,11 +1,11 @@
-// import Hero from './assets/components/hero.jsx';
+import Hero from './assets/components/hero.jsx';
 import Wish from './assets/components/wish.jsx';
 
 function App() {
 
   return (
     <>
-      {/* <Hero /> */}
+      <Hero />
       <Wish />
     </>
   )

@@ -5,7 +5,7 @@ export default function Wish() {
     const [selectedItem, setSelectedItem] = useState(null);
     return (
         <section className="font-lazydog w-full flex flex-col items-center text-sky-blue pt-6 bg-cover bg-center h-full"
-        style={{ backgroundImage: `url(${"/images/background.png"})` }}>
+        style={{ backgroundImage: `url(${"/items/background.png"})` }}>
             <h2 className="text-2xl">Welcome!</h2>
             <p>Please bless a young soul out here</p>
 
