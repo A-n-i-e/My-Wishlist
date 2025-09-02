@@ -4,7 +4,7 @@ export default function Hero() {
   const images = [
     { src: "/hero/steph-shades.png", className: "-top-12 -left-15 w-70 md:w-80" },
     { src: "/hero/steph-study.png", className: "top-0 -right-23 w-50 md:w-70" },
-    { src: "/hero/steph-cute.png", className: "-bottom-30 -left-50 w-100" },
+    { src: "/hero/steph-cute.png", className: "-bottom-30 -left-50 w-100 lg:w-120" },
     { src: "/hero/steph-gang.png", className: "-bottom-2 -right-8 w-40 md:w-60" },
     { src: "/hero/steph-young.png", className: "-bottom-15 left-1/2 -translate-x-1/2 w-50 md:w-60 lg:w-70 z-11" }, // center
   ];

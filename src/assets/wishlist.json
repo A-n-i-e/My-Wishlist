@@ -1,231 +1,268 @@
 [
   {
     "id": 1,
-    "name": "Converse Shoes",
-    "image": "/items/converse.png",
-    "reason": "I need a pair of durable and stylish shoes for everyday wear. Converse matches my style and lasts long."
+    "name": "Mere Christianity",
+    "image": "/items/mere.png",
+    "reason": "This book will help me deepen my faith and understanding of Christianity from C.S. Lewis' perspective.",
+    "category": "books"
   },
   {
     "id": 2,
-    "name": "A Monitor",
-    "image": "/items/monitor.png",
-    "reason": "A bigger screen will help me multitask and work on projects more comfortably, especially coding and design."
+    "name": "Show Your Work",
+    "image": "/items/showyourwork.png",
+    "reason": "This book will inspire me to confidently share my creative journey with others.",
+    "category": "books"
   },
   {
     "id": 3,
-    "name": "Analog Watch",
-    "image": "/items/watch.png",
-    "reason": "An analog watch keeps me disciplined with time and adds a touch of class to my outfits."
+    "name": "Seeking Allah, Finding Jesus",
+    "image": "/items/seeking.png",
+    "reason": "This book will give me deeper insights into interfaith conversations and strengthen my spiritual growth.",
+    "category": "books"
   },
   {
     "id": 4,
-    "name": "Portable Sewing Machine",
-    "image": "/items/sewing-m.png",
-    "reason": "I want to learn tailoring and be able to make and adjust clothes by myself."
+    "name": "A Voice in the Wind",
+    "image": "/items/voice-wind.png",
+    "reason": "I'd love to read this inspiring story by Francine Rivers to grow my faith and imagination.",
+    "category": "books"
   },
   {
     "id": 5,
-    "name": "Mere Christianity",
-    "image": "/items/mere.png",
-    "reason": "This book will help me deepen my faith and understanding of Christianity from C.S. Lewis’ perspective."
+    "name": "Pack of Stickers",
+    "image": "/items/stickers.png",
+    "reason": "Fun stickers to decorate my books, laptop, and other personal items.",
+    "category": "books"
   },
   {
     "id": 6,
-    "name": "Show Your Work",
-    "image": "/items/showyourwork.png",
-    "reason": "This book will inspire me to confidently share my creative journey with others."
+    "name": "Any Fictional book",
+    "image": "/items/fiction.png",
+    "reason": "I love getting lost in fictional worlds—books are my escape.",
+    "category": "books"
   },
   {
     "id": 7,
-    "name": "Polaroid Camera",
-    "image": "/items/polaroid.png",
-    "reason": "I want to capture memories instantly and create a collection of printed photos to keep and share."
+    "name": "Notebooks",
+    "image": "/items/notebook.png",
+    "reason": "These notebooks are perfect for jotting down ideas and staying organized.",
+    "category": "books"
   },
   {
     "id": 8,
-    "name": "Seeking Allah, Finding Jesus",
-    "image": "/items/seeking.png",
-    "reason": "This book will give me deeper insights into interfaith conversations and strengthen my spiritual growth."
+    "name": "Converse Shoes",
+    "image": "/items/converse.png",
+    "reason": "I need a pair of durable and stylish shoes for everyday wear. Converse matches my style and lasts long.",
+    "category": "shoes"
   },
   {
     "id": 9,
-    "name": "Mini Printer",
-    "image": "/items/printer.png",
-    "reason": "I want to print small photos and notes to keep memories and decorate my journals."
+    "name": "New Balance",
+    "image": "/items/newbalance.png",
+    "reason": "Comfortable sneakers for daily wear, walking, and staying active.",
+    "category": "shoes"
   },
   {
     "id": 10,
-    "name": "Headsets",
-    "image": "/items/headset.png",
-    "reason": "Good headphones will help me enjoy music, block out noise, and focus better while working."
+    "name": "Black Low-Sole Loafers",
+    "image": "/items/loafers.png",
+    "reason": "Classic shoes that go well with formal and casual outfits, stylish yet simple.",
+    "category": "shoes"
   },
   {
     "id": 11,
-    "name": "New Balance",
-    "image": "/items/newbalance.png",
-    "reason": "Comfortable sneakers for daily wear, walking, and staying active."
+    "name": "Adidas Sambas",
+    "image": "/items/sambas.png",
+    "reason": "A classic sneaker that's stylish and versatile, perfect for casual and sporty outfits.",
+    "category": "shoes"
   },
   {
     "id": 12,
-    "name": "A Voice in the Wind",
-    "image": "/items/voice-wind.png",
-    "reason": "I’d love to read this inspiring story by Francine Rivers to grow my faith and imagination."
+    "name": "Nike Dunks",
+    "image": "/items/nike-dunks.png",
+    "reason": "Trendy and comfortable sneakers I'd love to wear for everyday style and confidence.",
+    "category": "shoes"
   },
   {
     "id": 13,
-    "name": "Messenger Bag",
-    "image": "/items/messenger.png",
-    "reason": "A sleek bag to carry my essentials daily, both for school and casual outings."
+    "name": "Covered Boots",
+    "image": "/items/boots.png",
+    "reason": "Strong, stylish boots to wear during rainy weather and outdoor activities.",
+    "category": "shoes"
   },
   {
     "id": 14,
-    "name": "Black Low-Sole Loafers",
-    "image": "/items/loafers.png",
-    "reason": "Classic shoes that go well with formal and casual outfits, stylish yet simple."
+    "name": "A Monitor",
+    "image": "/items/monitor.png",
+    "reason": "A bigger screen will help me multitask and work on projects more comfortably, especially coding and design.",
+    "category": "tech"
   },
   {
     "id": 15,
-    "name": "Jewelry",
-    "image": "/items/necklace.png",
-    "reason": "Simple gold jewelry to add elegance and confidence to my style."
+    "name": "Headsets",
+    "image": "/items/headset.png",
+    "reason": "Good headphones will help me enjoy music, block out noise, and focus better while working.",
+    "category": "tech"
   },
   {
     "id": 16,
-    "name": "Beaded Jewelry",
-    "image": "/items/bead-necklace.png",
-    "reason": "Beaded jewelry gives me a unique, creative look and is perfect for casual wear."
+    "name": "Earbuds",
+    "image": "/items/earbuds.jpg",
+    "reason": "These earbuds are perfect for listening to music and podcasts on the go.",
+    "category": "tech"
   },
   {
     "id": 17,
-    "name": "Adidas Sambas",
-    "image": "/items/sambas.png",
-    "reason": "A classic sneaker that’s stylish and versatile, perfect for casual and sporty outfits."
+    "name": "Wireless Mics",
+    "image": "/items/mic.png",
+    "reason": "Perfect for recording, making content, and speaking clearly without dealing with cables.",
+    "category": "tech"
   },
   {
     "id": 18,
-    "name": "Nike Dunks",
-    "image": "/items/nike-dunks.png",
-    "reason": "Trendy and comfortable sneakers I’d love to wear for everyday style and confidence."
+    "name": "Photochromic Glasses",
+    "image": "/items/photochromic.jpg",
+    "reason": "These adapt to sunlight and protect my eyes, which would be super helpful!",
+    "category": "tech"
   },
   {
     "id": 19,
-    "name": "Earbuds",
-    "image": "/items/earbuds.jpg",
-    "reason": "These earbuds are perfect for listening to music and podcasts on the go."
+    "name": "Soundcore Neck Earpiece",
+    "image": "/items/soundcore.jpg",
+    "reason": "These earbuds are perfect for listening to music and podcasts on the go.",
+    "category": "tech"
   },
   {
     "id": 20,
-    "name": "Aso Oke Pants",
-    "image": "/items/asooke.png",
-    "reason": "Cultural and stylish pants that connect me with tradition while still looking modern."
+    "name": "Portable Sewing Machine",
+    "image": "/items/sewing-m.png",
+    "reason": "I want to learn tailoring and be able to make and adjust clothes by myself.",
+    "category": "hobbies"
   },
   {
     "id": 21,
-    "name": "Wireless Mics",
-    "image": "/items/mic.png",
-    "reason": "Perfect for recording, making content, and speaking clearly without dealing with cables."
+    "name": "Polaroid Camera",
+    "image": "/items/polaroid.png",
+    "reason": "I want to capture memories instantly and create a collection of printed photos to keep and share.",
+    "category": "hobbies"
   },
   {
     "id": 22,
-    "name": "Pack of Crochet Yarn",
-    "image": "/items/yarn.png",
-    "reason": "I want to learn crochet and make creative, handmade items for myself and friends."
+    "name": "Mini Printer",
+    "image": "/items/printer.png",
+    "reason": "I want to print small photos and notes to keep memories and decorate my journals.",
+    "category": "hobbies"
   },
   {
     "id": 23,
-    "name": "Covered Boots",
-    "image": "/items/boots.png",
-    "reason": "Strong, stylish boots to wear during rainy weather and outdoor activities."
+    "name": "Pack of Crochet Yarn",
+    "image": "/items/yarn.png",
+    "reason": "I want to learn crochet and make creative, handmade items for myself and friends.",
+    "category": "hobbies"
   },
   {
     "id": 24,
-    "name": "Pack of Stickers",
-    "image": "/items/stickers.png",
-    "reason": "Fun stickers to decorate my books, laptop, and other personal items."
+    "name": "Rubik's Cube",
+    "image": "/items/rubiks.png",
+    "reason": "It's fun, and I want to learn how to solve it properly.",
+    "category": "hobbies"
   },
   {
     "id": 25,
-    "name": "Salicylic Acid",
-    "image": "/items/salicylic.png",
-    "reason": "For skincare to help me maintain a clear and healthy face."
+    "name": "Messenger Bag",
+    "image": "/items/messenger.png",
+    "reason": "A sleek bag to carry my essentials daily, both for school and casual outings.",
+    "category": "fashion"
   },
-
   {
     "id": 26,
-    "name": "Niacinamide",
-    "image": "/items/niacin.png",
-    "reason": "This helps with my skin texture and acne marks. I've been wanting to include this in my routine for better skin health."
+    "name": "Aso Oke Pants",
+    "image": "/items/asooke.png",
+    "reason": "Cultural and stylish pants that connect me with tradition while still looking modern.",
+    "category": "fashion"
   },
   {
     "id": 27,
-    "name": "Phone Charm",
-    "image": "/items/phone-charm.png",
-    "reason": "Phone charms add a personal touch to my device and make it easier to find in my bag!"
+    "name": "Jerseys",
+    "image": "/items/jerseys.png",
+    "reason": "I love collecting jerseys from different teams and players!",
+    "category": "fashion"
   },
   {
     "id": 28,
-    "name": "Fictional Books of Your Choice",
-    "image": "/items/fiction.png",
-    "reason": "I love getting lost in fictional worlds—books are my escape."
+    "name": "Cute Sweaters",
+    "image": "/items/cute-sweater.png",
+    "reason": "They're cozy and stylish—perfect for colder seasons.",
+    "category": "fashion"
   },
   {
     "id": 29,
-    "name": "Photochromic Glasses",
-    "image": "/items/photochromic.jpg",
-    "reason": "These adapt to sunlight and protect my eyes, which would be super helpful!"
+    "name": "Zipup Jacket",
+    "image": "/items/zipup-jacket.png",
+    "reason": "It's trendy and fits my style perfectly for fall weather.",
+    "category": "fashion"
   },
   {
     "id": 30,
-    "name": "Biker Shades",
-    "image": "/items/bikers.png",
-    "reason": "Stylish and practical, these shades are great for sunny days."
+    "name": "Analog Watch",
+    "image": "/items/watch.png",
+    "reason": "An analog watch keeps me disciplined with time and adds a touch of class to my outfits.",
+    "category": "accessories"
   },
   {
     "id": 31,
-    "name": "Jerseys",
-    "image": "/items/jerseys.png",
-    "reason": "I love collecting jerseys from different teams and players!"
+    "name": "Jewelry",
+    "image": "/items/necklace.png",
+    "reason": "Simple gold jewelry to add elegance and confidence to my style.",
+    "category": "accessories"
   },
   {
     "id": 32,
-    "name": "Cute Sweaters",
-    "image": "/items/cute-sweater.png",
-    "reason": "They're cozy and stylish—perfect for colder seasons."
+    "name": "Beaded Jewelry",
+    "image": "/items/bead-necklace.png",
+    "reason": "Beaded jewelry gives me a unique, creative look and is perfect for casual wear.",
+    "category": "accessories"
   },
   {
     "id": 33,
-    "name": "Rubik’s Cube",
-    "image": "/items/rubiks.png",
-    "reason": "It’s fun, and I want to learn how to solve it properly."
+    "name": "Phone Charm",
+    "image": "/items/phone-charm.png",
+    "reason": "Phone charms add a personal touch to my device and make it easier to find in my bag!",
+    "category": "accessories"
   },
   {
     "id": 34,
-    "name": "Olbolla Lipgloss",
-    "image": "/items/olbolla.png",
-    "reason": "This gloss is known for being super hydrating and aesthetic."
+    "name": "Biker Shades",
+    "image": "/items/bikers.png",
+    "reason": "Stylish and practical, these shades are great for sunny days.",
+    "category": "accessories"
   },
   {
     "id": 35,
-    "name": "Zipup Jacket",
-    "image": "/items/zipup-jacket.png",
-    "reason": "It’s trendy and fits my style perfectly for fall weather."
+    "name": "Bagonetta Glasses",
+    "image": "/items/office.jpg",
+    "reason": "These glasses are stylish and perfect for completing my fall outfits.",
+    "category": "accessories"
   },
   {
     "id": 36,
-    "name": "Bagonetta Glasses",
-    "image": "/items/office.jpg",
-    "reason": "These glasses are stylish and perfect for completing my fall outfits."
+    "name": "Salicylic Acid",
+    "image": "/items/salicylic.png",
+    "reason": "For skincare to help me maintain a clear and healthy face.",
+    "category": "skincare"
   },
   {
     "id": 37,
-    "name": "Notebooks",
-    "image": "/items/notebook.png",
-    "reason": "These notebooks are perfect for jotting down ideas and staying organized."
+    "name": "Niacinamide",
+    "image": "/items/niacin.png",
+    "reason": "This helps with my skin texture and acne marks. I've been wanting to include this in my routine for better skin health.",
+    "category": "skincare"
   },
   {
     "id": 38,
-    "name": "Soundcore Neck Earpiece",
-    "image": "/items/soundcore.jpg",
-    "reason": "These earbuds are perfect for listening to music and podcasts on the go."
+    "name": "Olbolla Lipgloss",
+    "image": "/items/olbolla.png",
+    "reason": "This gloss is known for being super hydrating and aesthetic.",
+    "category": "skincare"
   }
 ]
