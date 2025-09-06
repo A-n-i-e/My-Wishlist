@@ -61,8 +61,8 @@ export default function Wish() {
 
             {selectedItem && (
                 <div className="fixed inset-0 flex items-center justify-center bg-white/50">
-                    <div className="bg-white rounded-xl p-6 max-w-md text-center shadow-lg relative">
-                        <h2>{selectedItem.name}</h2>
+                    <div className="bg-white rounded-xl p-6 max-w-[350px] sm:max-w-md  text-center shadow-lg relative">
+                        <h2 className="text-xl mb-4 underline">{selectedItem.name}</h2>
                         <p>{selectedItem.reason}</p>
                         <button className="bg-sky-blue text-white rounded-lg px-4 py-2 mt-4" onClick={() => setSelectedItem(null)}>Okay, I believe you</button>
                     </div>
