@@ -37,9 +37,9 @@ export default function Wish() {
                 </div>
             </div>
 
-            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3  lg:grid-cols-4 gap-6 p-4">
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 p-4">
                 {filteredWishlist.map(item => (
-                    <div key={item.id} className="w-72 border-2 border-sky-blue rounded-lg  p-4 text-center">
+                    <div key={item.id} className="w-70 border-2 border-sky-blue rounded-lg  p-4 text-center">
                         <div className="flex flex-col items-center">
                             <h2>{item.name}</h2>
                             <div className="w-full h-[200px] mt-2 mb-5">

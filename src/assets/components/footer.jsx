@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
-    <footer className="text-center bg-sky-blue p-4">
-      <p>Made with 🥹❤️ by Stephanie. Buy me stuff!</p>
+    <footer className="w-full text-center bg-transparent text-sky-blue p-4  mt-4 font-lazydog border-t-2 border-sky-blue ">
+      <p>Made with tears and love 🥹❤️ by Stephanie. <br/>Arigato Gosimasu!❤️</p>
     </footer>
   );
 }

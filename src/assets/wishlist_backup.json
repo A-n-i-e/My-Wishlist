@@ -80,7 +80,7 @@
     "id": 12,
     "name": "Nike Dunks",
     "image": "/items/nike-dunks.png",
-    "reason": "Yeesh, dunks are so cute. I would love a pair of these.🥹🥹 Black and white or blue and white anyone you think will look nice. I'm not that picky",
+    "reason": "TYeesh, dunks are so cute. I would love a pair of these.🥹🥹 Black and white or blue and white anyone you think will look nice. I'm not that picky",
     "category": "shoes"
   },
   {
@@ -206,70 +206,70 @@
     "id": 30,
     "name": "Zipup Jacket",
     "image": "/items/zipup-jacket.png",
-    "reason": "I just think they look really cool and would love to style it. I just like jackets and sweaters in general.",
+    "reason": "It's trendy and fits my style perfectly for fall weather.",
     "category": "fashion"
   },
   {
     "id": 31,
     "name": "Analog Watch",
     "image": "/items/watch.png",
-    "reason": "I really love analog watches. All the ones I have are spoilt now. My hands are bare 😭. I really want one with strong leather straps and a classy look.",
+    "reason": "I really love analog watches. All the ones I have are spoilt now.",
     "category": "accessories"
   },
   {
     "id": 32,
     "name": "Jewelry",
     "image": "/items/necklace.png",
-    "reason": "I've been meaning to buy some jewelry to spice up my outfits. I like simple gold pieces. I think silver ones would be nice too.",
+    "reason": "Simple gold jewelry to add elegance and confidence to my style.",
     "category": "accessories"
   },
   {
     "id": 33,
     "name": "Beaded Jewelry",
     "image": "/items/bead-necklace.png",
-    "reason": "Beaded jewelry gives me a unique, creative look and is perfect for casual wear. I just want to change things up a bit.",
+    "reason": "Beaded jewelry gives me a unique, creative look and is perfect for casual wear.",
     "category": "accessories"
   },
   {
     "id": 34,
     "name": "Phone Charm",
     "image": "/items/phone-charm.png",
-    "reason": "As you know, I've been blessed with a new phone and I think a phone charm would keep it from falling from my hands. I like simple, cute ones.",
+    "reason": "Phone charms add a personal touch to my device and make it easier to find in my bag!",
     "category": "accessories"
   },
   {
     "id": 35,
     "name": "Biker Shades",
     "image": "/items/bikers.png",
-    "reason": "Hehehe. Le Steeze. Let me block CU's sun and look good while doing it.",
+    "reason": "Stylish and practical, these shades are great for sunny days.",
     "category": "accessories"
   },
   {
     "id": 36,
     "name": "Bagonetta Glasses",
     "image": "/items/office.jpg",
-    "reason": "I think this glasses would look good on me. They look nerdy and I am a nerd after all.",
+    "reason": "These glasses are stylish and perfect for completing my fall outfits.",
     "category": "accessories"
   },
   {
     "id": 37,
     "name": "Salicylic Acid",
     "image": "/items/salicylic.png",
-    "reason": "If you see my face now, God have mercy. Blackheads are really fighting for my life. I heard salcyclic acid helps with that. I don't mind any brand, as far as it works.",
+    "reason": "For skincare to help me maintain a clear and healthy face.",
     "category": "skincare"
   },
   {
     "id": 38,
     "name": "Niacinamide",
     "image": "/items/niacin.png",
-    "reason": "I heard this one helps with hyperpigmentation and uneven skin tone, I have this on my chin. It's also a natural anti-inflammatory, I did my research.😉",
+    "reason": "This helps with my skin texture and acne marks. I've been wanting to include this in my routine for better skin health.",
     "category": "skincare"
   },
   {
     "id": 39,
     "name": "Olbolla Lipgloss",
     "image": "/items/olbolla.png",
-    "reason": "Lipgloss because dry lips don't look cutesy and demure.",
+    "reason": "This gloss is known for being super hydrating and aesthetic.",
     "category": "skincare"
   }
 ]
