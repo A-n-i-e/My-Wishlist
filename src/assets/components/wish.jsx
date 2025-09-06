@@ -1,5 +1,6 @@
 import {useState} from "react";
 import wishlist from "../wishlist.json";
+import Footer from "./footer";
 
 export default function Wish() {
     const [selectedItem, setSelectedItem] = useState(null);
@@ -68,6 +69,7 @@ export default function Wish() {
                     </div>
                 </div>
             )}
+            <Footer/>
         </section>
     )
 
