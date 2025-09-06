@@ -271,5 +271,12 @@
     "image": "/items/olbolla.png",
     "reason": "Lipgloss because dry lips don't look cutesy and demure.",
     "category": "skincare"
+  },
+  {
+    "id": 40,
+    "name": "3D-printer",
+    "image": "/items/3d-print.jpg",
+    "reason": "I would love to have a 3D-printer so I can bring my crazy ideas to life. I heard the Elegoo 3d printers are really good. But they are quite expensive so this is at the bottom of the list just in case.👀",
+    "category": "tech"
   }
 ]
