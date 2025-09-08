@@ -6,14 +6,14 @@ export default function Hero() {
     { src: "/hero/steph-study.png", className: "top-0 -right-23 w-50 md:w-70" },
     { src: "/hero/steph-cute.png", className: "-bottom-30 -left-50 w-100 lg:w-120" },
     { src: "/hero/steph-gang.png", className: "-bottom-2 -right-8 w-40 md:w-60" },
-    { src: "/hero/steph-young.png", className: "-bottom-15 left-1/2 -translate-x-1/2 w-50 md:w-60 lg:w-70 z-11" }, // center
+    { src: "/hero/steph-young.png", className: "-bottom-15 left-1/2 -translate-x-1/2 w-50 md:w-60 lg:w-70 z-2" }, // center
   ];
 
   return (
     <div className="relative h-[650px] w-full flex items-center justify-center overflow-hidden bg-sky-blue bg-cover" 
     style={{ backgroundImage: `url(${"/items/background.png"})` }}>
 
-      <h1 className="absolute text-7xl md:text-8xl lg:text-9xl font-bold text-white text-center font-lazydog z-10">
+      <h1 className="absolute text-7xl md:text-8xl lg:text-9xl font-bold text-white text-center font-lazydog z-1">
         STEPH&apos;S <br /> WISHLIST
       </h1>
 

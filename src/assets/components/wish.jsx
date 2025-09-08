@@ -1,6 +1,7 @@
 import {useState} from "react";
 import wishlist from "../wishlist.json";
 import Footer from "./footer";
+import Info from "./info";
 
 export default function Wish() {
     const [selectedItem, setSelectedItem] = useState(null);
@@ -17,13 +18,13 @@ export default function Wish() {
 
 
     return (
-        <section className="font-lazydog w-full flex flex-col items-center text-sky-blue pt-6 bg-cover bg-center h-full"
+        <section className="font-lazydog w-full flex flex-col items-center text-sky-blue pt-6 bg-cover bg-center h-full relative"
         style={{ backgroundImage: `url(${"/items/background.png"})` }}>
             <div className="flex flex-col items-center gap-1">
                     <h2 className="text-2xl">Welcome!</h2>
                     <p>Please bless a young soul out here</p>
 
-                <div className="my-4 flex justify-end">
+                <div className="my-4 flex justify-end gap-4 items-center">
                     <select
                     value={filter}
                     onChange={e => setFilter(e.target.value)}
@@ -35,7 +36,9 @@ export default function Wish() {
                         </option>
                     ))}
                     </select>
+                    <Info />
                 </div>
+                
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 p-4">
@@ -61,7 +64,7 @@ export default function Wish() {
             {/* popup */}
 
             {selectedItem && (
-                <div className="fixed inset-0 flex items-center justify-center bg-white/50">
+                <div className="fixed inset-0 flex items-center justify-center bg-white/50 z-3">
                     <div className="bg-white rounded-xl p-6 max-w-[350px] sm:max-w-md  text-center shadow-lg relative">
                         <h2 className="text-xl mb-4 underline">{selectedItem.name}</h2>
                         <p>{selectedItem.reason}</p>
